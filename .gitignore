@@ -1,0 +1,11 @@
+# Fichiers temporaires Talend
+/temp/
+/lib/
+/code/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de log
+*.log
